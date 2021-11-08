@@ -1,4 +1,4 @@
 #include <stdio.h>
 main() {
-printf("�i�|޳");
+printf("張育瑋\n")
 }
